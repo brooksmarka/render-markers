@@ -1,5 +1,3 @@
-From Steven Grider's typescript course.
-
 ## QuickStart
 
 To run locally `npx parcel index.html`
